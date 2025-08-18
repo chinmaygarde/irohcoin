@@ -10,9 +10,9 @@ Iroh Coin (IROH), is a memecoin for Iroh, our Australian Shepherd.
 
 You may trade for it from other coin holders, but that is **not** recommended!
 
-Iroh will give you some coins if he likes you. He like treats, belly rubs, and playing in the park.
+Iroh will give you some coins if he likes you. Bribery goes a long way with him. He like treats, belly rubs, and playing in the park.
 
-Bribery goes a long way with him.
+Give him your [Ethereum wallet address](#instructions) and he may give you some coin.
 
 ## Contract
 
@@ -28,9 +28,9 @@ View it on the [Block Explorer](https://hoodi.etherscan.io/address/0x2aA57bB4A71
 
 ## Instructions
 
-If you already know how to work with Ethereum tokens, the [contract address](#contract-address) should be all you need. If not, the following instructions assume you have a [Metamask wallet](https://metamask.io/).
+The following instructions assume you are using the [Metamask wallet](https://metamask.io/). Other wallets should have similar instructions.
 
-* Install the [Metamask Browser Extension](https://metamask.io/download).
+1. Install the [Metamask Browser Extension](https://metamask.io/download).
 * Create or import an existing Ethereum wallet.
 * In the Tokens tab, click the dropdown button on the top-right corner.
 * Click `+ Import tokens`.
