@@ -10,7 +10,7 @@ deploy: test
 	@npx hardhat ignition deploy ignition/modules/Iroh.ts
 
 deploy_hoodi: deploy
-	@npx hardhat ignition deploy ignition/modules/Iroh.ts --network hoodi
+	@npx hardhat ignition deploy ignition/modules/Iroh.ts --verify --network hoodi
 
 deploy_mainnet: deploy
-	@npx hardhat ignition deploy ignition/modules/Iroh.ts --network mainnet
+	@npx hardhat ignition deploy ignition/modules/Iroh.ts --verify --network mainnet
