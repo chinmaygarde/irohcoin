@@ -33,6 +33,9 @@ plugins:
 
 edit_uri: https://github.com/chinmaygarde/irohcoin/edit/main/docs/
 
+repo_url: https://github.com/chinmaygarde/irohcoin
+repo_name: chinmaygarde/irohcoin
+
 markdown_extensions:
   - admonition
   - pymdownx.details
