@@ -24,7 +24,7 @@ IROH is an ERC20 contract on the Ethereum blockchain.
 0x0fCEa0D43d8D125fD23D8c6EE048187058D9fe48
 ```
 
-View it on the [Block Explorer](https://hoodi.etherscan.io/address/0x0fCEa0D43d8D125fD23D8c6EE048187058D9fe48).
+View it on the [Block Explorer](https://etherscan.io/address/0x0fCEa0D43d8D125fD23D8c6EE048187058D9fe48).
 
 ## Instructions
 
@@ -34,5 +34,10 @@ The following instructions assume you are using the [Metamask wallet](https://me
 * Create or import an existing Ethereum wallet.
 * In the Tokens tab, click the dropdown button on the top-right corner.
 * Click `+ Import tokens`.
+* Go to the `Custom token` tab.
 * For the `Select a network` option, select `Ethereum Mainnet`.
 * For the `Token contract address`, copy and paste the [contract address](#contract-address).
+* Click `Import` and see the confirmation.
+* Once you get IROH tokens, your balance should automatically update.
+
+![Instructions](./assets/instructions.webp)
