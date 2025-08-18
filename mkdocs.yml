@@ -31,7 +31,7 @@ plugins:
   - offline
   - search
 
-edit_uri: edit/main/docs/
+edit_uri: https://github.com/chinmaygarde/irohcoin/edit/main/docs/
 
 markdown_extensions:
   - admonition
