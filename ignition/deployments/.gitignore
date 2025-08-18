@@ -1,3 +1,5 @@
 # Ignore all test chain deployments.
 *
 !.gitignore
+!chain-1/
+!chain-1/**
