@@ -21,10 +21,10 @@ IROH is an ERC20 contract on the Ethereum blockchain.
 ## Contract Address
 
 ```txt
-0x2aA57bB4A7138A28d28431Ec12E57c907F605fa2
+0x0fCEa0D43d8D125fD23D8c6EE048187058D9fe48
 ```
 
-View it on the [Block Explorer](https://hoodi.etherscan.io/address/0x2aA57bB4A7138A28d28431Ec12E57c907F605fa2).
+View it on the [Block Explorer](https://hoodi.etherscan.io/address/0x0fCEa0D43d8D125fD23D8c6EE048187058D9fe48).
 
 ## Instructions
 

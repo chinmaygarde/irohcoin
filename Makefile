@@ -11,3 +11,6 @@ deploy: test
 
 deploy_hoodi: deploy
 	@npx hardhat ignition deploy ignition/modules/Iroh.ts --network hoodi
+
+deploy_mainnet: deploy
+	@npx hardhat ignition deploy ignition/modules/Iroh.ts --network mainnet

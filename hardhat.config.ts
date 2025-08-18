@@ -42,6 +42,12 @@ const config: HardhatUserConfig = {
       url: configVariable("HOODI_RPC_URL"),
       accounts: [configVariable("HOODI_PRIVATE_KEY")],
     },
+    mainnet: {
+      type: "http",
+      chainType: "l1",
+      url: configVariable("MAINNET_RPC_URL"),
+      accounts: [configVariable("MAINNET_PRIVATE_KEY")],
+    },
   },
   verify: {
       etherscan: {
