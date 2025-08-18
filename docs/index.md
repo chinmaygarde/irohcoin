@@ -2,7 +2,7 @@
 title: Iroh Coin
 ---
 
-Iroh Coin (IROH), is a memecoin for Iroh, our Australian Shepherd.
+[IROH](https://etherscan.io/token/0x0fCEa0D43d8D125fD23D8c6EE048187058D9fe48) is a memecoin for Iroh, the Australian Shepherd.
 
 ![Iroh](./assets/beach.webp)
 
@@ -12,21 +12,21 @@ You may trade for it from other coin holders, but that is **not** recommended!
 
 Iroh will give you some coins if he likes you. Bribery goes a long way with him. He like treats, belly rubs, and playing in the park.
 
-Give him your [Ethereum wallet address](#instructions) and he may give you some coin.
-
-## Contract
-
-IROH is an ERC20 contract on the Ethereum blockchain.
+Give him your [Ethereum wallet address](#instructions).
 
 ## Contract Address
+
+IROH is an ERC20 contract on the Ethereum blockchain.
 
 ```txt
 0x0fCEa0D43d8D125fD23D8c6EE048187058D9fe48
 ```
 
-View it on the [Block Explorer](https://etherscan.io/address/0x0fCEa0D43d8D125fD23D8c6EE048187058D9fe48).
+View it on the [Block Explorer](https://etherscan.io/token/0x0fCEa0D43d8D125fD23D8c6EE048187058D9fe48).
 
 ## Instructions
+
+IROH is an ERC20 token that can be viewed in any Web3 app that allows you to manage such tokens.
 
 The following instructions assume you are using the [Metamask wallet](https://metamask.io/). Other wallets should have similar instructions.
 
