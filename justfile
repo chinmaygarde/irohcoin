@@ -1,5 +1,5 @@
 # Run Solidity and Typescript tests.
-test:
+test: build
     npx hardhat test
 
 # Build all Solidity contracts.
