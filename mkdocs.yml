@@ -30,6 +30,13 @@ theme:
 plugins:
   - offline
   - search
+  - macros:
+      on_error_fail: true
+      on_undefined: strict
+
+extra:
+  iroh_token_address: "0x0fCEa0D43d8D125fD23D8c6EE048187058D9fe48"
+  usdc_token_address: "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
 
 edit_uri: https://github.com/chinmaygarde/irohcoin/edit/main/docs/
 

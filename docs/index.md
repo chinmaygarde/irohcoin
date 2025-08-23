@@ -2,7 +2,7 @@
 title: Iroh Coin
 ---
 
-[IROH](https://etherscan.io/token/0x0fCEa0D43d8D125fD23D8c6EE048187058D9fe48) is a memecoin for Iroh, the Australian Shepherd.
+[IROH](https://etherscan.io/token/{{iroh_token_address}}) is a memecoin for Iroh, the Australian Shepherd.
 
 ![Iroh](./assets/beach.webp)
 
@@ -10,7 +10,7 @@ title: Iroh Coin
 
 
 !!! warning
-    Like any other ERC20 token, you can [trade for IROH ](https://app.uniswap.org/#/swap?inputCurrency=0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48&outputCurrency=0x0fCEa0D43d8D125fD23D8c6EE048187058D9fe48&exactAmount=1&exactField=input) coins on a decentralized exchange (DEX). But that is **not** recommended.
+    Like any other ERC20 token, you can [trade for IROH ](https://app.uniswap.org/#/swap?inputCurrency={{usdc_token_address}}&outputCurrency={{iroh_token_address}}&exactAmount=1&exactField=input) coins on a decentralized exchange (DEX). But that is **not** recommended.
 
 Iroh will happily give you coins if he likes you. He like treats, belly-rubs, going to the beach, and playing in the park. Bribery goes a long way with him.
 
@@ -21,10 +21,10 @@ Give him your Ethereum wallet address. Set up your own wallet using the [instruc
 IROH is an ERC20 contract on the Ethereum blockchain.
 
 ```txt
-0x0fCEa0D43d8D125fD23D8c6EE048187058D9fe48
+{{iroh_token_address}}
 ```
 
-View it on the [Block Explorer](https://etherscan.io/token/0x0fCEa0D43d8D125fD23D8c6EE048187058D9fe48).
+View it on the [Block Explorer](https://etherscan.io/token/{{iroh_token_address}}).
 
 ## Instructions
 
